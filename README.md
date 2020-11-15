@@ -1,2 +1,2 @@
 # fromOldToModernStyle
-Convert old style code ti modern styly code (es6+)
+Convert old style code ti modern style code (es6+)
